@@ -1,3 +1,15 @@
 body{
-    background-color: #348498;
+    background-color: hsl(190, 41%, 28%);
+}
+
+.post{
+    background-color: white;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 8px solid rgb(244, 13, 13);
+}
+
+footer{
+    text-align: center;
 }
